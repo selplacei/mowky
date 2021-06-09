@@ -1,0 +1,13 @@
+.idea/
+.directory
+**/*.kate-swp
+.mypy_cache/
+venv/
+__pycache__/
+mowky.iml
+ignore/
+
+# Python packaging tools
+build/
+dist/
+mowky\.egg-info
